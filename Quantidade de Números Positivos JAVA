@@ -7,6 +7,7 @@ Você receberá seis valores, negativos e/ou positivos.
 Saída
 Exiba uma mensagem dizendo quantos valores positivos foram lidos assim como é exibido abaixo no exemplo de saída. Não esqueça da mensagem "valores positivos" ao final.
 
+\\
 
 import java.io.IOException;
 import java.util.Scanner;
