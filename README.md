@@ -1,2 +1,2 @@
 # Desafios-Santander
-Projetos Utilizando a Plataforma da DIO.
+Desafios Utilizando a Plataforma da DIO.
